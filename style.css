@@ -1,0 +1,124 @@
+ body{
+      background-color:  #a5ffff ;
+ }
+ 
+ h1{
+      color: red;
+      font-family: 'Jim Nightshade', cursive;
+ }
+ 
+       #my-artist {
+       font-size: 35px;
+       background-color: pink;
+        border-style: solid;
+}
+      #my-artist h1{
+          color: green;
+      }
+ h2 {
+       color: orange;
+       font-family: 'Indie Flower', cursive;
+}
+
+ h3{
+       color: purple;
+       font-family: 'Ranga', cursive;
+ }
+ 
+ h4{
+       color: green;
+       font-family: 'Griffy', cursive;
+ }
+ 
+ h5 {
+       color: red;
+       font-family: 'Diplomata SC', cursive;
+}
+ 
+       #lady-gaga {
+       background-color: #d9f94a;
+ }
+ 
+       #lady-gaga h1 {
+       color: #dc4af9; 
+ }
+ 
+       #lady-gaga h5 {
+       color: red;
+ }
+ 
+       #drake h5 {
+       color:red;
+ }
+ 
+       #beyonce {
+       background-color: pink;
+ }
+ 
+       #ed-sheeran {
+       background-color: #a9fc55;
+ }
+ 
+       #ed-sheeran h4 {
+       color: white;
+ }
+       #fall-out-boy {
+       background-color: white;
+ }
+       #all-american-rejects {
+       background-color: teal;
+ }
+       #taylor-swift {
+       background-color:pink;
+ }
+       #the-killers {
+       background-color: green;
+ }
+       #the-killers h4 {
+       color: white;
+}
+      img {
+      border-radius:50%;
+}
+       #my-artist {
+        font-size: 27px;
+       }
+       #title {
+         font-size: 40px;
+       }
+       
+       #all-american-rejects {
+           background-color: #f455fc;
+       }
+       
+       #fall-out-boy {
+           background-color: #fc8f50;
+       }
+       #lady-gaga {
+       text-align: center;
+       }
+        #drake {
+       text-align: center;
+       }
+        #beyonce {
+       text-align: center;
+       }
+        #ed-sheeran{
+       text-align: center;
+       }
+        #fall-out-boy {
+       text-align: center;
+       }
+        #all-american-rejects {
+       text-align: center;
+       }
+        #crash-kings {
+       text-align: center;
+       }
+        #taylor-swift {
+       text-align: center;
+       }
+        #the-killers {
+       text-align: center;
+       }
+       
